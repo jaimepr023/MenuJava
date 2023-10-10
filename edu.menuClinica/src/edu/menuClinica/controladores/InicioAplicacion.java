@@ -7,7 +7,6 @@ import edu.menuClinica.servicios.MenuInterfaz;
 
 /**
  * Clase por donde se empieza nuestra aplicacion 290923
- * 
  * @author jpr
  */
 //autor sirve para que salga el nombre 
